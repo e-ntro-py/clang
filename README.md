@@ -5,11 +5,11 @@
 
 ### Installation
 Now you can freely download the **Beta** version of the compiler, unpack the archive corresponding to your operating system and use it. Using our scripts you can easily change the `PATH` environment variable or create the necessary symlinks, more details in the [Portable Installation](/docs/portable-installation.md) page.
-* Windows x64: [powerclang-windows-x64.7z](https://powertech.center/data/clang/beta/powerclang-windows-x64.7z)
-* Linux x64: [powerclang-linux-x64.7z](https://powertech.center/data/clang/beta/powerclang-linux-x64.7z)
-* Linux ARM64: [powerclang-linux-arm64.7z](https://powertech.center/data/clang/beta/powerclang-linux-arm64.7z)
-* macOS x64: [powerclang-macos-x64.7z](https://powertech.center/data/clang/beta/powerclang-macos-x64.7z)
-* macOS ARM64: [powerclang-macos-arm64.7z](https://powertech.center/data/clang/beta/powerclang-macos-arm64.7z)
+* Windows x64: [powerclang-windows-x64.7z](https://dl.powertech.center/clang/beta-powerclang-windows-x64.7z)
+* Linux x64: [powerclang-linux-x64.7z](https://dl.powertech.center/clang/beta-powerclang-linux-x64.7z)
+* Linux ARM64: [powerclang-linux-arm64.7z](https://dl.powertech.center/clang/beta-powerclang-linux-arm64.7z)
+* macOS x64: [powerclang-macos-x64.7z](https://dl.powertech.center/clang/beta-powerclang-macos-x64.7z)
+* macOS ARM64: [powerclang-macos-arm64.7z](https://dl.powertech.center/clang/beta-powerclang-macos-arm64.7z)
 
 ### Features
 * [[C] Language Extensions](/docs/features/language-extensions.md)
